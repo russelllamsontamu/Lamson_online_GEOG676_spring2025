@@ -2,11 +2,11 @@
 
 | Labs                    | Homework                              |
 | ------------------------|:-------------------------------------:|
-|[Lab1](Lab1/README.md)   | [Homework1](Homework/Week1/README.md) |
-|[Lab2](Lab2/README.md)   | [Homework2](Homework/Week2/README.md) |
-|[Lab3](Lab3/README.md)   | [Homework3](Homework/Week3/README.md) |
-|[Lab4](Lab4/README.md)   | [Homework4](Homework/Week4/README.md) |
-|[Lab5](Lab5/README.md)   | [Homework5](Homework/Week5/README.md) |
-|[Lab6](Lab6/README.md)   | [Homework6](Homework/Week6/README.md) |
-|[Lab7](Lab7/README.md)   | [Homework7](Homework/Week7/README.md) |
+|[Lab1](Labs/Lab1/README.md)   | [Homework1](Homework/Week1/README.md) |
+|[Lab2](Labs/Lab2/README.md)  | [Homework2](Homework/Week2/README.md) |
+|[Lab3](Labs/Lab3/README.md)   | [Homework3](Homework/Week3/README.md) |
+|[Lab4](Labs/Lab4/README.md)   | [Homework4](Homework/Week4/README.md) |
+|[Lab5](Labs/Lab5/README.md)   | [Homework5](Homework/Week5/README.md) |
+|[Lab6](Labs/Lab6/README.md)   | [Homework6](Homework/Week6/README.md) |
+|[Lab7](Labs/Lab7/README.md)   | [Homework7](Homework/Week7/README.md) |
 
