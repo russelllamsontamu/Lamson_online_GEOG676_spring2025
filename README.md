@@ -3,7 +3,7 @@
 | Labs                         |
 | -----------------------------|
 |[Lab1](Labs/Lab1/README.md)   |
-|[Lab2](Labs/Lab2/)   |
+|[Lab2](Labs/Lab2/)            |
 |[Lab3](Labs/Lab3/README.md)   |
 |[Lab4](Labs/Lab4/README.md)   |
 |[Lab5](Labs/Lab5/README.md)   |
