@@ -39,7 +39,7 @@ for line in lines:
 
     elif shape == 'Circle':
         cir = circle(int(components[1])) # Have to change them to int as it will read as a string
-        print('The area of the circle is: ', cir.get_the_area())
+        print('The area of the circle using 3.14 as pi is: ', cir.get_the_area())
 
     elif shape == 'Triangle':
         tri = triangle(int(components[1]), int(components[2])) # Have to change them to int as it will read as a string
