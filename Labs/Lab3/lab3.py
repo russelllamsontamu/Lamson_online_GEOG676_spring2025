@@ -24,7 +24,7 @@ class triangle(shape):
         return (self.base * self.height)/2
     
 # Code to read the text file "shape.txt" that we will use to return the areas from
-file = open(r'C:\\TexasA&M_Masters\\GitHub\\Lamson_online_GEOG676_spring2025\\Labs\\Lab3\\shape.txt', 'r')
+file = open('C:\\TexasA&M_Masters\\GitHub\\Lamson_online_GEOG676_spring2025\\Labs\\Lab3\\shape.txt', 'r')
 lines = file.readlines()
 file.close()
 
@@ -33,15 +33,15 @@ for line in lines:
     components = line.split(',')  # This code is allowing us to split the string at the comma for how the text file is written
     shape = components[0]  # This is grabbing the sting name at the first point in the list and defining it as shape for later use for the loops
 
-    if shape == 'rectangle':
+    if shape == 'Rectangle':
         rec = rectangle(int(components[1]), int(components[2])) # Have to change them to int as it will read as a string
         print('The area of the rectangle is: ', rec.get_the_area())
 
-    elif shape == 'circle':
+    elif shape == 'Circle':
         cir = circle(int(components[1])) # Have to change them to int as it will read as a string
         print('The area of the circle is: ', cir.get_the_area())
 
-    elif shape == 'triangle':
+    elif shape == 'Triangle':
         tri = triangle(int(components[1]), int(components[2])) # Have to change them to int as it will read as a string
         print('The area of the triangle is: ', tri.get_the_area())
     
