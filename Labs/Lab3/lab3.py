@@ -24,7 +24,7 @@ class triangle(shape):
         return (self.base * self.height)/2
     
 # Code to read the text file "shape.txt" that we will use to return the areas from
-file = open(r'C:\TexasA&M_Masters\GitHub\Lamson_online_GEOG676_spring2025\Labs\Lab3\shape.txt', 'r')
+file = open(r'C:\\TexasA&M_Masters\\GitHub\\Lamson_online_GEOG676_spring2025\\Labs\\Lab3\\shape.txt', 'r')
 lines = file.readlines()
 file.close()
 
