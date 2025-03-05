@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, March 4, 2025 8:56:19 PM</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\TexasA&amp;M_Masters\GitHub\Lamson_online_GEOG676_spring2025\Labs\Lab6\Lab6_Toolbox.pyt", line 82, in execute
+﻿    time.sleep(readTime) # Pauses the execution for 3 seconds as stated above by the readTime variable
+﻿    ^^^^
+﻿NameError: name 'time' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Tuesday, March 4, 2025 8:56:19 PM (Elapsed Time: 0.04 seconds)</msg></messages>

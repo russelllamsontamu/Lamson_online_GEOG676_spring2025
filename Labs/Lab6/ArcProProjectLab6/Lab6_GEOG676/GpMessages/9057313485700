@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, March 4, 2025 9:20:25 PM</msg><msg code="0" type="0">Validating Project File...</msg><msg code="0" type="0">Finding your map layer...</msg><msg code="0" type="0">Calculating and classifying...</msg><msg code="0" type="0">Cleaning up...</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\TexasA&amp;M_Masters\GitHub\Lamson_online_GEOG676_spring2025\Labs\Lab6\Lab6_Toolbox.pyt", line 131, in execute
+﻿    symbology.renderer.colorRamp = project.listColorRamps('Orange (5 Classes)')[0] # Setting the color ramp
+﻿                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+﻿IndexError: list index out of range
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Tuesday, March 4, 2025 9:20:37 PM (Elapsed Time: 12.13 seconds)</msg></messages>
