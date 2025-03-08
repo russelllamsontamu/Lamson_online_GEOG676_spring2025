@@ -8,4 +8,4 @@
 |[Lab4](Labs/Lab4/)            |
 |[Lab5](Labs/Lab5/)            |
 |[Lab6](Labs/Lab6/)   |
-|[Lab7](Labs/Lab7/Lab7_RasterAnalysis)   |
+|[Lab7](Labs/Lab7/Lab7_Code.py)   |
